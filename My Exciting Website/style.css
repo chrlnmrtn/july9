@@ -1,0 +1,16 @@
+:root{
+    box-sizing: border-box;
+}
+*{
+    box-sizing: inherit;
+}
+body{
+    font-family: Helvetica, Arial, sans-serif;color: white;
+}
+.nav-list{
+    display: flex;
+    padding: 0.5em;
+    list-style-type: none;
+    background-color: black;
+    border-radius: 0.2em;
+}
